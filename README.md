@@ -48,10 +48,392 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+```html
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KABILAN S | AI & Data Science Portfolio</title>
+</head>
+
+<body>
+
+    <!-- HOME -->
+
+    <section id="home">
+
+        <center>
+
+            <h1>HELLO, I'M KABILAN S</h1>
+
+            <h2>Exploring the World of Artificial Intelligence</h2>
+
+            <img src="kabil.jpeg"
+                 alt="Kabilan S Profile Photo"
+                 width="180"
+                 height="180">
+
+            <p>
+                I am an Artificial Intelligence and Data Science student
+                passionate about programming, intelligent technologies
+                and solving real-world problems through innovation.
+            </p>
+
+            <p>
+                My goal is to build intelligent applications and
+                contribute to the future of technology.
+            </p>
+
+            <p>
+                <a href="#projects">Explore My Work</a> |
+                <a href="#contact">Get In Touch</a>
+            </p>
+
+        </center>
+
+    </section>
+
+    <hr>
+
+    <!-- ABOUT -->
+
+    <section id="about">
+
+        <h2>ABOUT ME</h2>
+
+        <p>
+            I am Kabilan S, an enthusiastic Artificial Intelligence
+            and Data Science student with a strong interest in
+            software development, machine learning and emerging
+            technologies.
+        </p>
+
+        <p>
+            I have learned programming languages such as Python,
+            Java and C. I enjoy understanding how technology works
+            and applying my knowledge to develop useful applications.
+        </p>
+
+        <p>
+            I am continuously improving my technical knowledge,
+            logical thinking and problem-solving abilities.
+            I believe in learning by doing and building projects
+            that create meaningful solutions.
+        </p>
+
+        <h3>Career Objective</h3>
+
+        <p>
+            To become a skilled AI and Data Science professional
+            by developing strong programming skills, exploring
+            innovative technologies and contributing to
+            real-world projects.
+        </p>
+
+    </section>
+
+    <hr>
+
+    <!-- EDUCATION -->
+
+    <section id="education">
+
+        <h2>EDUCATION</h2>
+
+        <table border="1" cellpadding="10">
+
+            <tr>
+                <th>Qualification</th>
+                <th>Institution</th>
+                <th>Department</th>
+                <th>Year</th>
+            </tr>
+
+            <tr>
+                <td>B.E / B.Tech</td>
+                <td>Saveetha Engineering College</td>
+                <td>Artificial Intelligence and Data Science</td>
+                <td>2024 - 2028</td>
+            </tr>
+
+            <tr>
+                <td>Higher Secondary</td>
+                <td>School Education</td>
+                <td>Higher Secondary</td>
+                <td>2024</td>
+            </tr>
+
+        </table>
+
+    </section>
+
+    <hr>
+
+    <!-- SKILLS -->
+
+    <section id="skills">
+
+        <h2>TECHNICAL SKILLS</h2>
+
+        <h3>Programming Languages</h3>
+
+        <ul>
+            <li>Python</li>
+            <li>Java</li>
+            <li>C Programming</li>
+        </ul>
+
+        <h3>Web Development</h3>
+
+        <ul>
+            <li>HTML</li>
+            <li>CSS Fundamentals</li>
+            <li>JavaScript Fundamentals</li>
+        </ul>
+
+        <h3>Core Computer Science</h3>
+
+        <ul>
+            <li>Data Structures Fundamentals</li>
+            <li>Object-Oriented Programming</li>
+            <li>Database Fundamentals</li>
+            <li>Problem Solving</li>
+        </ul>
+
+        <h3>Artificial Intelligence Interests</h3>
+
+        <ul>
+            <li>Artificial Intelligence</li>
+            <li>Machine Learning</li>
+            <li>Data Science</li>
+            <li>Data Analysis</li>
+            <li>Deep Learning</li>
+        </ul>
+
+        <h3>Tools and Platforms</h3>
+
+        <ul>
+            <li>Visual Studio Code</li>
+            <li>Git and GitHub</li>
+            <li>Google Colab</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+    <!-- PROJECTS -->
+
+    <section id="projects">
+
+        <h2>MY PROJECTS</h2>
+
+        <h3>1. Personal Portfolio Website</h3>
+
+        <p>
+            Developed a personal portfolio website using HTML
+            to showcase my profile, educational background,
+            technical skills and projects.
+        </p>
+
+        <p><b>Technology:</b> HTML</p>
+
+        <h3>2. Student Management System</h3>
+
+        <p>
+            A basic programming project designed to manage
+            student information and maintain academic records.
+        </p>
+
+        <p><b>Technology:</b> C Programming</p>
+
+        <h3>3. Python Data Analysis Project</h3>
+
+        <p>
+            An introductory project focused on organizing,
+            processing and analyzing sample datasets using
+            Python programming.
+        </p>
+
+        <p><b>Technology:</b> Python</p>
+
+        <h3>4. AI and Machine Learning Exploration</h3>
+
+        <p>
+            Exploring the fundamentals of artificial intelligence
+            and machine learning, including how computers learn
+            from data and make predictions.
+        </p>
+
+        <p><b>Technology:</b> Python, Machine Learning Concepts</p>
+
+    </section>
+
+    <hr>
+
+    <!-- EXPERIENCE -->
+
+    <section id="experience">
+
+        <h2>EXPERIENCE & ACTIVITIES</h2>
+
+        <h3>Creative Video Editing</h3>
+
+        <p>
+            Experience in freelance video editing and creating
+            engaging digital content for social media and events.
+        </p>
+
+        <ul>
+            <li>Creative content development.</li>
+            <li>Video editing and visual storytelling.</li>
+            <li>Client communication and project handling.</li>
+            <li>Creative problem-solving.</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+    <!-- CERTIFICATIONS -->
+
+    <section id="certifications">
+
+        <h2>CERTIFICATIONS & LEARNING</h2>
+
+        <ul>
+            <li>Python Programming Fundamentals.</li>
+            <li>Java Programming Fundamentals.</li>
+            <li>C Programming Fundamentals.</li>
+            <li>Web Development Fundamentals.</li>
+            <li>Introduction to Artificial Intelligence.</li>
+        </ul>
+
+        <p>
+            I continuously explore online learning resources
+            and improve my technical knowledge.
+        </p>
+
+    </section>
+
+    <hr>
+
+    <!-- STRENGTHS -->
+
+    <section id="strengths">
+
+        <h2>PERSONAL STRENGTHS</h2>
+
+        <ul>
+            <li>Quick Learning</li>
+            <li>Logical Thinking</li>
+            <li>Problem Solving</li>
+            <li>Creativity</li>
+            <li>Teamwork</li>
+            <li>Adaptability</li>
+            <li>Time Management</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+    <!-- INTERESTS -->
+
+    <section id="interests">
+
+        <h2>AREAS OF INTEREST</h2>
+
+        <ul>
+            <li>Artificial Intelligence</li>
+            <li>Machine Learning</li>
+            <li>Software Development</li>
+            <li>Data Science and Analytics</li>
+            <li>Web Development</li>
+            <li>Creative Technology</li>
+            <li>Entrepreneurship</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+    <!-- CONTACT -->
+
+    <section id="contact">
+
+        <center>
+
+            <h2>LET'S CONNECT</h2>
+
+            <p>
+                I am always interested in learning new technologies,
+                connecting with people and collaborating on
+                innovative projects.
+            </p>
+
+            <h3>Contact Information</h3>
+
+            <p>Name: Kabilan S</p>
+
+            <p>
+                Email:
+                <a href="mailto:yourmail@gmail.com">
+                    yourmail@gmail.com
+                </a>
+            </p>
+
+            <p>Location: Tamil Nadu, India</p>
+
+            <p>
+                GitHub:
+                <a href="https://github.com/">
+                    Visit My GitHub
+                </a>
+            </p>
+
+            <p>
+                LinkedIn:
+                <a href="https://www.linkedin.com/">
+                    Visit My LinkedIn
+                </a>
+            </p>
+
+        </center>
+
+    </section>
+
+    <hr>
+
+    <!-- FOOTER -->
+
+    <footer>
+
+        <center>
+
+            <h2>THANK YOU FOR VISITING!</h2>
+
+            <h3>KABILAN S</h3>
+
+            <p>
+                "Turning Ideas Into Intelligence,
+                And Intelligence Into Innovation."
+            </p>
+
+            <p>Copyright &copy; 2026 Kabilan S</p>
+
+            <a href="#home">Back to Top</a>
+
+        </center>
+
+    </footer>
+
+</body>
+</html>
+```
 
 ## OUTPUT
-
+![alt text](image.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
